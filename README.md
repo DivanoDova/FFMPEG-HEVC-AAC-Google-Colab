@@ -6,4 +6,4 @@ This is a simple Google Colabotary that will encode your videos files from GDriv
 Credit: This is a mod from https://github.com/mohitjoshi155/Codemaster
 
 Click on the "Open in Colab" button.
-<a href="https://colab.research.google.com/github/Ptibouc77/FFMPEG-HEVC-AAC-Google-Colab/blob/master/FFMPEG X265 AAC.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/Ptibouc77/FFMPEG-HEVC-AAC-Google-Colab/blob/master/FFMPEG HEVC AAC.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
